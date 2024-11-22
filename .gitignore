@@ -1,3 +1,4 @@
 .ipynb_checkpoints
-out/*
-img/*
+out
+img
+assemblies
