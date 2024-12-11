@@ -1,0 +1,297 @@
+Resistance gene,Class,SISTR1 Serovar,Source Niche,Collection Year,Replicon
+blaTEM-1,BETA-LACTAM,Agona,Environment,2022,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2022,Col3M_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2022,ColRNAI_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2022,IncFIB(K)_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2022,IncI1-I(Alpha)_1
+blaTEM-1,BETA-LACTAM,Agona,Food,2018,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,Agona,Food,2018,Col3M_1
+blaTEM-1,BETA-LACTAM,Agona,Food,2018,ColRNAI_1
+blaTEM-1,BETA-LACTAM,Agona,Food,2018,IncFIB(K)_1
+blaTEM-1,BETA-LACTAM,Agona,Food,2018,IncI1-I(Alpha)_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2019,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2019,Col3M_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2019,ColRNAI_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2019,IncFIB(K)_1
+blaTEM-1,BETA-LACTAM,Agona,Environment,2019,IncI1-I(Alpha)_1
+gyrA_D87Y,QUINOLONE,Enteritidis,Environment,2021,IncFIB(S)_1
+gyrA_D87Y,QUINOLONE,Enteritidis,Environment,2021,IncFII(S)_1
+gyrA_D87Y,QUINOLONE,Enteritidis,Environment,2021,IncFII(pAR0022)_1
+blaTEM-1,BETA-LACTAM,Enteritidis,Poultry,2023,IncFIB(S)_1
+blaTEM-1,BETA-LACTAM,Enteritidis,Poultry,2023,IncFII(S)_1
+blaTEM-1,BETA-LACTAM,Enteritidis,Poultry,2023,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Enteritidis,Poultry,2009,IncFIB(S)_1
+qnrB19,QUINOLONE,Enteritidis,Poultry,2009,IncFII(S)_1
+qnrB19,QUINOLONE,Enteritidis,Poultry,2009,IncFII(pAR0022)_1
+gyrA_S83Y,QUINOLONE,Enteritidis,Poultry,2023,IncFIB(S)_1
+gyrA_S83Y,QUINOLONE,Enteritidis,Poultry,2023,IncFII(S)_1
+gyrA_S83Y,QUINOLONE,Enteritidis,Poultry,2023,IncFII(pAR0022)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2020,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2020,IncFIB(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2020,IncFII(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2020,IncFII(pAR0022)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2021,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2021,IncFIB(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2021,IncFII(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2021,IncFII(pAR0022)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2022,Col(pHAD28)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2022,IncFIB(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2022,IncFII(S)_1
+blaTEM-1,BETA-LACTAM,"I 1,4,[5],12:i:-",Environment,2022,IncFII(pAR0022)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2016,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2020,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2020,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2020,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Companion Animal,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Companion Animal,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Companion Animal,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Companion Animal,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Animal Feed,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2017,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2019,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2018,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2020,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Poultry,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2016,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2016,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2016,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Human,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Wild Animal,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2021,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Environment,2022,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2023,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+gyrA_D87Y,QUINOLONE,Infantis,Food,2024,IncFIB(pN55391)_1
+mph(A),MACROLIDE,Newport,Environment,2021,ColpVC_1
+mph(A),MACROLIDE,Newport,Environment,2022,ColpVC_1
+blaCARB-2,BETA-LACTAM,Newport,Environment,2021,ColpVC_1
+blaCARB-2,BETA-LACTAM,Newport,Environment,2022,ColpVC_1
+qnrA1,QUINOLONE,Newport,Environment,2021,ColpVC_1
+qnrA1,QUINOLONE,Newport,Environment,2022,ColpVC_1
+dfrA1,TRIMETHOPRIM,Newport,Environment,2021,ColpVC_1
+dfrA1,TRIMETHOPRIM,Newport,Environment,2022,ColpVC_1
+blaROB-11,BETA-LACTAM,Newport,Environment,2023,ColpVC_1
+blaROB-11,BETA-LACTAM,Newport,Environment,2022,ColpVC_1
+estT,MACROLIDE,Newport,Environment,2022,ColpVC_1
+estT,MACROLIDE,Newport,Environment,2023,ColpVC_1
+blaTEM-1,BETA-LACTAM,Newport,Environment,2023,ColpVC_1
+blaTEM-1,BETA-LACTAM,Newport,Environment,2022,ColpVC_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2022,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2022,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2022,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2020,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2020,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2020,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2021,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Wild Animal,2015,IncFII(pAR0022)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2019,IncFIB(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2019,IncFII(S)_1
+qnrB19,QUINOLONE,Typhimurium,Environment,2019,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2006,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2006,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2006,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2016,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2016,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Livestock,2016,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2016,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2016,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2016,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2015,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2015,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2015,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2022,IncFII(pAR0022)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFIB(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFII(S)_1
+blaCARB-2,BETA-LACTAM,Typhimurium,Environment,2019,IncFII(pAR0022)_1

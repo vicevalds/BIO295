@@ -1,0 +1,26 @@
+{
+    "id": "31024B79",
+    "path": "~/Documents/git/BIO295-save/mca_dev.new/run_ca.r",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "2758672282",
+    "contents": "",
+    "dirty": false,
+    "created": 1733868452413.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1733869770,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1733869770300,
+    "read_only": false,
+    "read_only_alternatives": []
+}
